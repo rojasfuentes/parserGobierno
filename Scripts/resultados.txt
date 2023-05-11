@@ -1,0 +1,7 @@
+Archivo: INSABI ejemplo 1.pdf, Página: 1, Renglón siguiente: Página 1 |
+Archivo: INSABI ejemplo 1.pdf, Página: 2, No se encontró 'SUMINISTRO:' en la página
+Archivo: INSABI ejemplo 2.pdf, Página: 1, Renglón siguiente: Página 1 |
+Archivo: INSABI ejemplo 2.pdf, Página: 2, No se encontró 'SUMINISTRO:' en la página
+Archivo: INSABI ejemplo 2.pdf, Página: 3, No se encontró 'SUMINISTRO:' en la página
+Archivo: INSABI ejemplo 3.pdf, Página: 1, Renglón siguiente:  
+Archivo: INSABI ejemplo 3.pdf, Página: 2, No se encontró 'SUMINISTRO:' en la página
