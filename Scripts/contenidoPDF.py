@@ -1,19 +1,15 @@
 import PyPDF2
 
-# Abrir el archivo PDF
-with open(r'C:\Users\JFROJAS\Desktop\Gobierno\Archivos\INSABI ejemplo 1.pdf', 'rb') as pdf_file:
-    # Crear un objeto PDFReader para leer el archivo PDF
+with open(r'C:\Users\Frida Colin\Desktop\GobGuapo\parserGobierno\Archivos\PDF\INSABI ejemplo 1.pdf', 'rb') as pdf_file:
+    
     pdf_reader = PyPDF2.PdfReader(pdf_file)
 
-    # Crear un objeto para escribir el contenido extraído en un archivo de texto
-    with open(r'C:\Users\JFROJAS\Desktop\Gobierno\contenido.txt', 'w', encoding='utf-8') as text_file:
-        # Iterar sobre todas las páginas del PDF
+    with open(r'C:\Users\Frida Colin\Desktop\GobGuapo\parserGobierno\contenido.txt', 'w', encoding='utf-8') as text_file:
+        # Iterar sobre cada página del PDF
         for page_num in range(len(pdf_reader.pages)):
-            # Obtener la página actual
+            #página actual
             page = pdf_reader.pages[page_num]
 
             # Extraer el texto de la página actual
             page_text = page.extract_text()
-
-            # Escribir el texto extraído en el archivo de texto
             text_file.write(page_text)
