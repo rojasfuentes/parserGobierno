@@ -1,3 +1,4 @@
+#1, 2 y 6
 import os
 import PyPDF2
 import re
@@ -8,7 +9,7 @@ regex_suministro = r'SUMINISTRO\s+(\S[^\r\n]*)'
 # regex para la nueva búsqueda
 regex_puntos = r'\b\S+\.\S+\.\S+\b'
 
-folder_path = r'C:\Users\Frida Colin\Desktop\GobGuapo\parserGobierno\Archivos\PDF'
+folder_path = r'C:\Users\Mayo\OneDrive - Universidad Autónoma del Estado de México\Desktop\Parser\parserGobierno\Archivos\PDF'
 
 result_values = []
 result_values_2 = []
@@ -50,3 +51,6 @@ for i in range(len(result_values_2)):
     result_values_2[i] = re.sub(sinLetras, '', result_values_2[i])
 codigoProd_02 = result_values_2
 
+print(noOrdRep_06)
+print(noRemision_01)
+print(codigoProd_02)
