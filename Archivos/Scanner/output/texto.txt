@@ -1,0 +1,1564 @@
+C:\Users\JFROJAS\Desktop\Gobierno\Archivos\Scanner\outputC:\Users\JFROJAS\Desktop\Gobierno\Archivos\Scanner\outputC:\Users\JFROJAS\Desktop\Gobierno\Archivos\Scanner\outputC:\Users\JFROJAS\Desktop\Gobierno\Archivos\Scanner\output
+n7noNo. Remisión:
+REMISIÓN DE PEDIDO
+1352546
+Fecha Remisión:
+IMSS
+Fecha Impresión: 21/04/2023 11:48:24
+21/04/2023 10:48:24
+No. Orden de Reposición:
+40172505
+Licitación. y/o Adjudicación directa: LA-012M7B997-E115-2022
+Lugar de entrega
+A DISTRIBUIDOR
+Clasificación presupuestal
+098301150905 Razón Social:
+Fecha de expedición:
+11/04/2023
+Fecha de entrega: 26/04/2023
+No. Contrato: U220774
+Fecha posible
+Dias amplitud:
+5
+LOGISTICA Y TRANSPORTE PARA LA INDUSTRIA DE LA SALUD, S.API. DE C.V.
+25/04/2023
+Dirección completa:
+AV INDTR AUTOMOTRIZ 128 LT CEDFC AZ PROUE
+INDTR EL COECILLO CP 50248, TOLUCA, MEXICO
+Datos proveedor
+RFC: LVA 020208-R61
+No. Proveedor:
+00043813
+Razón Social:
+Almacén destino:
+Clasificación presupuestal:
+188001150900
+Dirección completa:
+CALLE 9 ESTE NUM. 235, Col. CIVAC, Pobl. JIUTEPEC,
+MORELOS
+LABORATORIOS VANQUISH, S. A. DE C. V.
+Nombre almacén: ALMACEN DELEGACIONAL EN MORELOS
+Dirección completa: AV PLAN DE AYALA ESO AV CENTRAL COL CUAUHAUCK CUERNAVACA MORELOS
+Clave
+Descripción
+Presentación
+Precio Compra
+Lote
+Marca
+Procedencia
+Caducidad
+Cantidad
+Importe
+010000 5084 00 00
+TACROLIMUS CAPSULA CADA CAPSULA CONTIENE TACROLIMUS MONOHIDRATADO EQUIVALENTE A 1 MG DE TACROLIMUS ENVASE CON
+50 CAPSULAS
+ENV 50 CAP
+$169
+BF22005689
+VANGORN/RS 239M2022 SSA
+INDIA
+01/11/2024 12/22
+853
+$144,157.00
+Importe en letras
+Subtotal
+$144,157.00
+(ciento cuarenta y cuatro mil ciento cincuenta y siete pesos con 00/100 M.N.)
+IVA 0.00%
+$0.00 $144157.00
+Total
+Observaciones:
+Sello Control de Caldad APROBADO
+Sello de Almacén
+RECIBIDONo. Remisión: 1352610
+REMISIÓN DE PEDIDO
+IMSS
+Fecha Remisión:
+21/04/2023 11:01:41
+Fecha Impresión: 21/04/2023 12:01:42
+No. Orden de Reposición:
+Licitación, y/o Adjudicación directa: LA-012M78997-E115-2022
+40172540
+Fecha de entrega:
+Fecha de expedición:
+11/04/2023
+No. Contrato: U220774
+Lugar de entrega
+A DISTRIBUIDOR: Clasificación presupuestal:
+098301150905
+Razón Social:
+LOGISTICA Y TRANSPORTE PARA LA INDUSTRIA DE LA SALUD, SA.P.1. DE C.V.
+26/04/2023
+Dias amplitud:
+5
+Fecha posible
+25/04/2023
+Dirección completa:
+AV INDTR AUTOMOTRIZ 128 LT CEDFC AZ PROUE
+INDTR EL COECILLO CP50248, TOLUCA MEXICO
+Datos proveedor
+RFC: LVA-020208-R61
+No. Proveedor:
+00043913
+Razón Social:
+LABORATORIOS VANQUISH, S. A. DE C. V.
+Dirección completa:
+CALLE 9 ESTE NUM. 235, Col CIVAC Pobl JIUTEPEC,
+MORELOS
+Almacén destino:
+Clasificación presupuestal:
+311901200203 Nombre almacen:
+UMAE ESPECIALIDADES VERACRUZ (NTE)- FARMACIA
+Dirección completa: AVENCIA CUAUHTEMOC SN COL FORMANDO HOGAR OPS VERACRUZ VERACHU
+Clave
+Descripción
+Presentación
+Precio Compra
+Lote
+Marca
+Procedencia
+Caducidad
+Cantidad
+Importe
+010000 5084 00 00
+TACROLIMUS CAPSULA CADA CAPSULA CONTIENE TACROLIMUS MONOHIDRATADO EQUIVALENTE A1 MG DE TACROLIMUS ENVASE CON
+50 CAPSULAS
+ENV 60 CAP
+$109
+BF22005689
+VANGORN/RS 239M2022 SSA
+INDIA
+01/11/2024 12/22
+$14,365.00
+Importe en letras:
+Subtotal
+$14,365.00
+(catorce mil trecientos sesenta y cinco pesos con 00/100 M.N.)
+IVA 0.00%
+$0.00
+Total
+$14365.00
+Observaciones
+Sello Control de Calidad APROBADO
+Sello de Almacén
+RECIBIDONo. Remisión
+REMISIÓN DE PEDIDO
+1330003
+Fecha Remisión:
+IMSS
+Fecha Impresión: 10/04/2023 11:36:44
+10/04/2023 10:36:43
+Lugar de entrega
+No, Orden de Reposición:
+40166252
+Licitación, y/o Adjudicación directa: LA-012M78997-E115-2022
+No. Contrato L220774
+Fecha de expedición:
+05/04/2023
+Fecha de entrega:
+20/04/2023
+A DISTRIBUIDOR
+Clasificación presupuesta
+098301150905
+Razón Social
+LOGISTICA Y TRANSPORTE PARA LA INDUSTRIA DE LA SALUD, SA.PL DE C.V
+Dias amplitud
+5
+Fecha posible
+12/04/2023
+Dirección completa:
+AVINDTR AUTOMOTRIZ 128LT CEOFCA PROUE INDTH EL COECILLO CP 124 TOLUCA MEXICO
+Datos proveedor
+RFC:
+No. Proveedor 00043913
+LVA-020206-61
+Razón Social LABORATORIOS VANQUISH, SA DE CV.
+Dirección completa:
+CALLE ESTE NUM. 235, Cal CIVAC, Pobl JUTEPEC,
+MORELOS
+Almacén destino
+Clasificación presupuestal
+078002150000
+Nombre almacén ALMACEN SUBDELEGACIONAL EN TAPACHULA
+CHIAPAS
+Dirección completa:
+MANGOS OF 30 TAPACHA CHAPAS
+Clave
+Descripción
+Presentación
+Precio Compra
+Lote
+Marca
+Procedencia
+Caducidad
+Cantidad
+Importe
+015 000 50$700 03-
+LEVOSIMENDAN BOLUCION INYECTABLE CADA ML CONTIENE
+LEVOSIMENDAN 25 MG ENVASE CON FRASCO AMPULA CON 5 ML
+ENV 17
+$1299
+ARGENTINA
+41535F1
+LEVOSIMENDAN RICHETIRS 53674
+$1,300.00
+31/12/2024 28/12/22
+Impone en letras:
+Subtotal
+$1,399.00
+(un mill treciante noventa y nueve pesos con 00/100 MN.)
+IVA 0.00%
+$0.00
+Total
+$1399.00
+Observaciones:
+Sello Control de Calidad APROBADO
+Sello de Almacén
+RECIBIDO
+Page 1 de 1No, Remisión: 1328248
+REMISIÓN DE PEDIDO
+IMSS
+Fecha Remisión:
+05/04/2023 13:22:22
+Fecha Impresión: 05/04/2023 14:22:22
+No. Orden de Reposición:
+40164092
+Licitación. y/o Adjudicación directa: LA-012M78997-E115-2022
+Lugar de entrega
+A DISTRIBUIDOR
+Clasificación presupuestal 098301150905 Razón Social
+Fecha de entrega: 19/04/2023
+No. Contrato: U220791
+Fecha de expedición:
+04/04/2023 Dias amplitud
+Fecha posible 24/04/2023
+LOGISTICA Y TRANSPORTE PARA LA
+INDUSTRIA DE LA SALUD, SAPI DE CV.
+Dirección completa:
+AV INOTR AUTOMOTRIZ 128 LTC EDFC A2 PROUE NOTREL COECILLO CP 5004 TOLUCA MEXICO
+Datos proveedor
+RFC:
+No. Proveedor: 00095297
+PCI-410227-884
+Razón Social:
+Dirección completa:
+PRODUCTOS CIENTIFICOS, SA DE CV.
+NICOLAS SAN JUAN NUM 1046, Col. DEL VALLE. Pobl BENITO JUAREZ CRUDAD DE MEXICO
+Almacén.desting:
+Clasificación presupuestal
+141901200203
+Nombre almacén: UMAE HOSPITAL DE ESPECIALIDADES.C.M.N.O
+Dirección completa:
+AVENDA BELISARIO DOMUZ 100-COLONIA
+NOEPENDENCIA GUADALAJARA JALISCO
+Clave
+Descripción
+Presentación
+Precio Compra
+Lote
+Marca
+Procedencia
+Caducidad
+Cantidad
+Importe
+010 000 5337 00 00
+TOBRAMICINA SOLUCION PARA NEBULIZADOR CADA AMPOLLETA CONTIENE TOBRAMICINA 300 MG ENVASE CON 14 SOBRES. CADA SOBRE CON 4 AMPOLLETAS DE 5 ML CADA UNA
+ENV 14 5BR
+$16500
+L2212864
+TOFIBIRS 064M2011 SSA
+MEXICO
+31/01/2025
+$16,500.00
+Importe en letras
+Subtotal
+$16.500.00
+(dieciseis mil quinientos pesos con 00/100 M.N.)
+IVA 0.00% Total
+$0.00 $16500.00
+Observaciones
+Sello Control de Calidad
+Sello de Almacén
+APROBADO
+RECIBIDOCARNOT LABORATORIOS
+PRODUCTOS CIENTIFICOS SA DE CV Nicolás San Juan 1046, Col. Del Valle. Ciudad de México, México CP 03100 Tel. (55)54887000
+CERTIFICADO DE ANALISIS PRODUCTO TERMINADO
+Producto: TOFIB SOLUCION 300 MG 56 AMP
+Código: TOFLIPS
+No. de análisis: 2300730-PT
+Lote:
+1.2212864 : 40000024488
+Lote de inspección
+Inicio de fabricación: Fecha de caducidad:
+02.01.2023
+31.01.2025
+Método analítico: Especificación analitica
+M.A. 192-12 : EP.T.C. 292-07
+Cantidad liberada: 135 UN
+Fecha de recepción de la muestra: 12.01.2023
+Fecha de inicio de análisis: 13.01.2023 Fecha de término de análisis: 03.02.2023
+Fecha emisión del certificado: 03.02.2023
+DETERMINACIONES
+ESPECIFICACIONES
+RESULTADOS
+Descripción
+Ampolletas de Polietileno que contienen una solución clara, transparente de color amarillo o ligeramente amarillo, libre de particulas extrañas visibles, acondicionadas en sobres y en estuche plegadizo de cartón
+Ampolletas de Polietileno que
+contienen una solución clara, transparente ligeramente amarillo, libre de particulas extrañas visibles. acondicionadas en sobres y en estuche plegadizo de cartón
+Color
+Solución de color amarillo, que no es más intenso
+que la solución de referencia YI
+Solución de color amarillo, que no fue más intenso que la solución de referencia YI
+Identificación
+Tobramicina
+Tiempo de retención en CLAR: Corresponde a la sustancia de referencia
+Corresponde a la sustancia de referencia
+Volumen dispensado promedio
+No menos de 5 ml.
+5 ml.
+Entre 4.5 y 6.5
+5.8
+pH
+Absorbancia
+Menor a 0.30 a 410 nm
+0.03
+Uniformidad de Dosis
+6.9%
+Uniformidad de Dosis (Variación de peso)
+1 Etapa: Para 10 unidades el valor de aceptación es menor o igual a L.1% (LI-15.0)
+Material Particulado
+1 particula por contenedor
+Iguales o mayores de 10 pm: No más de 6000 particulas por contenedor
+Material Particulado
+I particula por contenedor
+Iguales o mayores de 25 pm: No más de 600 particulas por contenedor
+Osmolaridad y osmolalidad
+135-285 mOsmol/kg
+171 mOsmol/kg
+Contenido de Cloruro de sodio
+2.250 mg/ml.
+2.025-2.475 mg/ml.
+2.189 mg/ml.
+90.0% 110.0%
+97.3%
+Contenido de Cloruro de sodio
+Valoración
+61.7 mg/ml.
+Tobramicina 60.0 mg/ml. 54.0 a 66.0 mg/ml.
+Página 1 de 3
+PC-PN-0725-F04.02CARNOT LABORATORIOS
+PRODUCTOS CIENTIFICOS SA DE CV
+Nicolás San Juan 1046, Col. Del Valle.
+Ciudad de México, México CP 03100
+Tel. (55)54887000
+CERTIFICADO DE ANALISIS PRODUCTO TERMINADO
+Producto: TOFIB SOLUCION 300 MG 56 AMP.
+Código:
+TOFLIPS
+No. de análisis: 2300730-PT
+Lote:
+1.2212864
+Lote de inspección:
+40000024488
+DETERMINACIONES
+ESPECIFICACIONES
+RESULTADOS
+Valoración
+90.0 a 110.0%
+102.9%
+Impurezas orgánicas
+0.00%
+Impureza especifica no identificada Tr 0.36 No más de 0.25%
+Impurezas orgánicas
+Desoxiestreptamina Kanosaminida No más de 0.3%
+0.0%
+Impurezas orgánicas
+Nebramina: No más de 0,4%
+0.0%
+Impurezas orgánicas
+0.0%
+Cualquier impureza individual no especifica. No más de 0.1%
+Impurezas orgánicas
+Impurezas totales no especificadas
+No más de 0.2%
+0.0%
+Impurezas orgánicas
+Impurezas totales: No más de 1.0%
+0.0%
+Endotoxinas bacterianas
+No más de 60 UE/mL.
+Menos de 60 UE/ml.
+Esterilidad
+No se observa evidencia de crecimiento microbiano No se observó evidencia de crecimiento en ninguno de los medios de cultivo de prueba microbiano en ninguno de los medios de cultivo de prueba
+Hermeticidad
+Ninguna de las unidades probadas resulta con
+cambio de color
+Ninguna de las unidades probadas resultó con cambio de color
+Inspección fisica por atributos
+Defectos: Criticos. NAC 0.065
+Cumple
+Inspección fisica por atributos
+Defectos: Mayores. NAC 1.0
+Cumple
+Inspección fisica por atributos
+Defectos: Menores NAC 4.0
+Cumple
+Página 2 de 3
+PC-PN-0725-F04.02CARNOT LABORATORIOS
+PRODUCTOS CIENTIFICOS SA DE CV Nicolás San Juan 1046, Col. Del Valle. Ciudad de México, México CP 03100 Tel. (55)54887000
+CERTIFICADO DE ANALISIS PRODUCTO TERMINADO
+Lote:
+Producto: TOFIB SOLUCION 300 MG 56 AMP.
+1.2212864
+Código: TOFLIPS No. de análisis: 2300730-PT
+Lote de inspección:
+40000024488
+Producto fabricado y distribuido por Productos Cientificos S.A. de C.V.
+Observaciones:
+El texto NAC equivale a Nivel Aceptable de Calidad.
+-Este producto ha sido fabricado bajo cumplimiento de las Buenas Prácticas de Fabricación y analizado conforme a especificaciones vigentes bajo las Buenas Prácticas de Laboratorio"
+Conclusión: El producto Cumple
+con las especificaciones vigentes.
+Realizó: AA Conze 62.03 Feb 23.
+Revisado y aprobado Jefe Control Fisicoquimico
+Este certificado contiene la información con que fue originalmente aprobado
+Espacio para ser llenado por Aseguramiento de Calidad
+WREZ 03FB23
+Firma y fecha
+Firma y fecha
+APROBADO
+Aseguramiento de Calidad:
+C. Socher OS FEB 23. Firma y fecha
+Dictamen
+PRODUCTOS CIENTÍFICOS, S.A. DE CV.
+QFB. ELIZABETH CORTES FLORES RESPONSABLE SANITARIO Cedula Profesional No. 2005098
+Página 3 de 3
+PC-PN-0725-F04.02SALUD
+Cofepris
+CLAVE: 010.000.5337.00.00 SECRETARIA DE SALUD
+COMISIÓN FEDERAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS
+COMISIÓN DE AUTORIZACIÓN SANITARIA PRORROGA DEL REGISTRO SANITARIO NO.
+064M2011 SSA
+No. DE SOLICITUD
+153300423A0536 No. DE SOLICITUD ANTERIOR
+123300415C0329
+Con fundamento en los Articulos 4" párrafo cuarto, 8, 14 y 16 de la Constitución Politica de los Estados Unidos Mexicanos, 2 fracción 1, 14, 17, 26, 39 fracciones XXI y XXIV de la Ley Orgánica de la Administración Pública Federal, articulo 1,3 fracciones I, XXII y XXVIII, 4 fraccion III, 13 inciso A fracción (X, X, 17 bis, fracción IV, 194 ultimo párrafo, 194 bis, 197, 204, 212/221, 222, 222 Bis, 223, 226, 368, 371, 376, 376 bis, 378 y 393 primer párrafo de la Ley General de Salud; 1, 2, 3, 15, 15-A, 17-A de la Ley Federal de Procedimiento Administrativo, 1, 2 inciso c fracción X, 15, 36 y 37 del Reglamento Interior de la Secretaria de Salud, 1, 3 fracción I inciso b, fracción VII y XIII, 4 fracción II inciso c, 11 fracciones VI y IX y XI, y 14 fracción 1 del Reglamento de la Comisión Federal para la Protección contra Riesgos Sanitarios, 1, 2, 153, 157, 167, 168, 169, 170, 172, 173, 174, 175, 177, 178, 190 bis 1. 190 bis 2 y 190 bis 6 del Reglamento de Insumos para la Salud, se autoriza la prórroga del registro sanitario bajo las siguientes condiciones:
+Productos Cientificos, S.A. de C.V.
+Nicolás San Juan No. 1046, Col Del Valle, Deleg. Benito Juarez, C.P 03100, Ciudad de México, Mexico PC1410227884
+CARACTERÍSTICAS DEL PRODUCTO
+Denominación Distintiva:
+TOFIB
+Denominación Genérica:
+Tobramicina
+Clasificación Articulo 226 LGS
+IV
+Forma Farmacéutica:
+Fabricante del Farmaco:
+Solución
+Teva Pharmaceutical Works Private Limited Company (Teva Pharmaceuticals Ltd.)
+Pallagi út 13., Debrecen, 4042, Hungria
+Fabricante del Medicamento:
+Productos Cientificos, SA de CV.
+Nicolas San Juan No. 1046, Col. Del Valle, Deleg Benito Juarez CP 03100, Ciudad de México, México
+Acondicionado por:
+Productos Cientificos, S.A. de C.V.
+Nicolas San Juan No. 1046, Col. Del Valle, Deleg. Benito Juarez, CP 03100, Ciudad de México, Mexico
+Distribuido por:
+Productos Cientificos, S.A. de C.V.
+Nicolas San Juan No. 1046, Col. Del Valle, Deleg. Benito Juarez, CP 03100, Ciudad de México, Mexico
+Fecha de Expedición:
+23 de marzo de 2017
+Fecha de Vencimiento
+23 de marzo de 2022
+CAS-DEAPE
+COF 116150SALUD Presentaciones:
+Cofepris
+Caja de cartón con 14 sobres de glasspolifoil, cada uno con 4 ampolletas Caja de cartón con 7 sobres de glasspolifoil, cada uno con 8 ampolletas.
+Envase para Solución:
+Vida Ust
+Ampolleta de Polietileno de mediana densidad (PEMD)
+Indicaciones Terapéuticas:
+Contraindicaciones:
+24 meses, debiendo expresar el affo con número y el mes con letra.
+Antibiótico (aminoglucosido) para infecciones ocasionadas por germenes sensibles
+Hipersensibilidad a los componentes de la formula, a los aminoglucosidos insuficiencia renal, auditiva,
+vestibular o con disfunción neuromuscular, embarazo
+Formula
+300 mg/5 mL
+La ampolleta contiene:
+Fármaco
+Tobramicina
+300.000 mg
+Se usa de acuerdo a la policia
+Aditivo
+Via de Administración: Inhalación.
+Observaciones al Registro:
+-Con base en el artículo 189 del Reglamento de Insumos para la Salud, cuentan con 120 días para agotar existencias de material de
+envase y producto terminado, con las condiciones previas a esta autorización
+-Se autoriza cambio de fabricante del farmaco de Zhejang Hisun Pharmaceutical Co. Ltd. a "Teva Pharmaceutical Works Private Limited Company", asi como marbetes e IPP's actualizadas. (Estas autorizaciones corresponden a la solicitud de modificación No.
+173300CT050054).
+-Deberán confirmar el plazo de caducidad con estudios de estabilidad a largo plazo, conforme a la NOM-073-SSA1-2015. Estabilidad de
+farmacos y medicamentos, así como de remedios herbolarios.
+Las condiciones sanitarias del producto al que hace referencia la presente autorización podrán ser verificadas en cualquier momento por la autoridad sanitaria. Lo anterior de conformidad con los articulos 17 BIS fracciones IV y VI y 378 de la Ley General de Salud, 1, 2, 13 y 16 fracción II de la Ley Federal de Procedimiento Administrativo 2 fracción III, 128, fracción I. C., 220 fracciones III y Vi del Reglamento de
+Insumos para la Salud. -El titular del presente registro sanitario deberá mantener vigente el Certificado de Buenas Prácticas de Fabricación durante la vigencia del
+registro sanitario que se otorga en este acto.
+Anexos: 15
+SUFRAGIO EFECTIVO NO REELECCIÓN
+Comisionado de Autorizacióny Sanitaria
+JUAN CARLOS ALLAGA SOLÓRZANO
+CAS-DEAPE
+COF 116151gob.mx
+Comisión Federal para la Protección contra Riesgos Sanitarios
+Constancia de Prórroga
+Registro Sanitario
+Homoclave del Trámite:
+COFEPRIS-2022-022-006 A
+Nombre de Trámite:
+SOLICITUD DE SEGUNDA PRORROGA Y SUBSECUENTES
+Modalidad:
+MEDICAMENTOS
+NÚMERO DE SOLICITUD
+22330026A00832
+Trámite electrónico
+18/08/2022 21:32 hrs
+ÚLTIMO NÚMERO DE OFICIO (EN PAPEL SEGURIDAD)
+153300423A0536
+NÚMERO DE TRÁMITE EN EVALUACIÓN (SOLICITUD DE PRORROGA ORIGINAL EN APEGO)
+213300423A0820
+Datos generales del solicitante
+NOMBRE O RAZÓN SOCIAL:
+R.F.C. o C.U.R.P.:
+PRODUCTOS CIENTIFICOS, S.A DE C.V.
+PCI 410227884
+DOMICILIO:
+NICOLAS SAN JUAN NO. 1046, COL. DEL VALLE BENITO JUAREZ, C.P. 03100 CIUDAD DE MÉXICO
+REPRESENTANTE LEGAL O RESPONSABLE SANITARIO:
+REGISTRO SANITARIO:
+GOBIERNO DE MÉXICO
+MARIA DEL CONSUELO PEREZ MORA
+064M2011 SSA
+CONAMER
+COMISION NACIONAL DE MEDORA BECULATORIA
+COFEPRISgobmx
+Comisión Federal para la Protección contra Riesgos Sanitarios
+Constancia de Prórroga
+Registro Sanitario
+DENOMINACIÓN DISTINTIVA:
+DENOMINACIÓN GENÉRICA:
+TOFIB
+TOBRAMICINA//
+FECHA EMISIÓN:
+FECHA DE VIGENCIA:
+18/08/2022
+18/08/2027
+MODO DE INGRESO:
+INTERNET
+MODO DE ENTREGA:
+INTERNET
+La presente Constancia se emite de conformidad con lo dispuesto en el primer párrafo del Artículo Quinto Transitorio del ACUERDO por el que se modifica el diverso por el que se dan a conocer los trámites y servicios, así como los formatos que aplica la Secretaría de Salud, a través de la Comisión Federal para la Protección contra Riesgos Sanitarios, inscritos en el Registro Federal de Trámites y Servicios de la Comisión Federal de Mejora Regulatoria, publicado el 28 de enero de 2011 y el diverso por el cual se dan a conocer los formatos de los trámites a cargo de la Secretaría de Salud que se indican, publicado el 2 de septiembre de 2015, publicado en el Diario Oficial de la Federación el 24 de enero de 2022.
+GOBIERNO DE MÉXICO
+CONAMER CONSON NACIONAL DE MEJORA REGULATORIA
+COFEPRISNo. Remisión:
+REMISIÓN DE PEDIDO
+1333990
+Fecha Romisión: 12/04/2023 10:15:24
+Fecha Impresión: 12/04/2023 11:15:25
+IMSS
+No. Orden de Reposición:
+40159282
+Licitación, yio Adjudicación directa: LA-12-M7B-012M78997-4-1-2023
+Lugar de entrega
+A DISTRIBUIDOR
+Clasificación presupuestal:
+098301150905 Razón Social
+LOGISTICA Y TRANSPORTE PARA LA INDUSTRIA DE LA SALUD SAPI. DE C.V.
+No. Contrate U230080
+Fecha de expedición:
+29/03/2023 Dias amplitud
+Fecha de entrega: 13/04/2023
+5
+Fecha posible
+1304/2023
+Dirección completa: AVINDTR AUTOMOTRIZ 129 LTC EDFC AZ PROUE
+INOTH EL COECILLO CP 5024, TOLUCA MEXICO
+Datos proveedor
+RFC:
+No. Proveedor 00092563
+ALT-010926-8YD
+Razón Social ALTERNAVIDA 5. A. DE C. V.
+Dirección completa:
+AV JESUS DEL MONTE NUM. 271 PISO 4. Col. JESUS DEL MONTE, POL HUIXQUILUCAN, EDO, DE MEXICO
+Almacen destino:
+Clasificación presupuestal:
+16800150900 Nombre almacen
+ALMACEN DELEGACIONAL EN EL ESTADO DE
+MEXICO PONIENTE Dirección completa
+VALIDAD TOLUCA METEO.COL MODACANA CP
+214 METEPEC VEICO
+Presentación
+Precio Compra
+Clave
+Descripción
+Caducidad
+Procedencia
+Cantidad
+Importe
+Lote
+Marca
+ENVIFA
+$2062.5
+010 000 5445 00 00
+RITUXIMAB SOLUCION INYECTABLE. CADA FRASCO AMPULA CONTIENE
+RITUXIMAB 500 MG. ENVASE CON UN FRASCO AMPULA CON 50 ML
+31/10/2025
+39
+ESLOVENIA
+$80,437.50
+ARASAMILARS 015M2020 SSA
+Importe en letras
+Subtotal IVA 0.00%
+$80.437.50
+$0.00
+(ochata mil cabocantos treinta y siete pesos con 50/100 M.N.)
+Total
+$80437.50
+Observaciones
+03/Nov/22
+Sello de Almacén
+Sello Control de Calidad
+RECIBIDO
+APROBADO
+Pagina de TNo. Remisión:
+REMISIÓN DE PEDIDO
+1334035
+Fecha Remisión:
+Fecha Impresión: 12/04/2023 11 2831
+IMSS
+12/04/2023 10:28:31
+No. Orden de Reposición:
+40150282
+Licitación, yio Adjudicación directa: LA-12-M7B-012M78997-4-1-2023
+Lugar de entrega
+A DISTRIBUIDOR
+Clasificación presupuestal
+058301150905 Razón Social:
+LOGISTICA Y TRANSPORTE PARA LA INDUSTRIA DE LA SALUD SAPI DE CV
+Fecha de expedición:
+29/03/20/23 Dias amplitud
+Fecha de entrega: 13/04/2023
+No. Contrato: U230080
+Fecha posible
+13/04/2023
+Dirección completa: AV INDTR AUTOMOTRIZ 128 LT CEOFC A2 PROUE
+NOTH EL COECILLO OP 24 TOLUCA MEXICO
+Datos proveedor
+RFC:
+No. Proveedor
+ALT-010029-8YD
+Razón Social
+Dirección completa:
+ALTERNAVIDA SA DE CV.
+AV JESUS DEL MONTE NUM 271 PISO 4, Col. JESUS DEL MONTE, Pobl HUIXQUILUCAN, EDO. DE MEXICO
+Almacén destina:
+Clasificación presupuestal
+16800150900 Nombre almacen
+ALMACEN DELEGACIONAL EN EL ESTADO DE MEXICO PONENTE
+Dirección completa:
+Presentación
+Descripción
+Precio Compra
+Clave
+Procedencia
+Caducidad
+Cantidad
+Importe
+Lote
+Marca
+ENV1FA
+$20625
+010 000 5445 00 00
+RITUXIMAB SOLUCION INYECTABLE CADA FRASCO AMPULA CONTIENE
+RITUXIMAB 500 MG. ENVASE CON UN FRASCO AMPULA CON 50 ML
+31/10 2025
+82
+$189,750.00
+ESLOVENIA
+ARASAMILARS 015M2020 SSA
+Impone en letras
+$188.750.00
+NA 0.00%
+$0.00
+[cento ochenta y nueve mil setecientos cincuenta pesos con 00/100 M.N.)
+Total
+$189750.00
+Observaciones
+63/Nov/22
+Sello de Almacén RECIBIDO
+Sello Control de Calidad
+APROBADO
+Page 1 de 1SANDOZA Novartis
+CERTIFICADO ANALÍTICO
+CAS
+18149
+CF0437 OF
+Número de Producto: 44092339
+ARASAMILA 500MG/50ML 1LIVI 1 MX
+Lote:
+MR0037
+QAN:
+15646
+Tamaño de Lote:
+2219 pz
+Fecha de Liberación:
+16-febrero-2023
+Fecha de Fabricación: 03-noviembre-2022
+Fecha de Caducidad:
+31-octubre-2025
+Determinación
+Especificación
+Resultado
+Solución incciona
+Cumple
+Descripción: Grado de coinracion
+Solución incolora aligeramente
+Cumple
+Aspecto del contenedor
+Corresponde
+Claridad
+6 UTN
+Maximo 15 UTN
+66
+Cumple
+PH
+63-67
+Cumple
+Volumen extraible
+50.73 mL
+50.25-51.75 ml
+Cumple
+Minimo 240 mosmolika
+Corresponde a la referencia
+Cumple
+Identidad: Carge
+Corresponde a la referencia
+33 particles/ envase
+Cumple
+Contaminación de particulas Particulas sub-visibles 10
+Maximo 6000 particulas/envane
+O particulas envase
+Cumple
+Maximo 600 particulas envase
+Contaminación de particulas Particulas sub-
+Prácticamente libre de particulas
+Cumple
+Prácticamentelor de particulas
+Página 1 do 2
+BALDEEL1
+Impresión 16-febrero-2023 14:47 Hrs.SANDOZA Novartis
+CERTIFICADO ANALÍTICO
+Division
+CAS
+18149
+Número de Producto: 44092339
+ARASAMILA 500MG/50ML 1LIVI 1 MX
+Lote:
+MR0037
+QAN:
+19646
+Tamaño de Lote:
+2219 pz
+Fecha de Liberación:
+16-febrero-2023
+Fecha de Fabricación: 03 noviembre-2022
+Fecha de Caducidad:
+31-octubre-2025
+Determinación
+Especificación
+Resultado
+38.2%
+Cumple
+Pureza por cromatografia de Minimo 98.0%
+Exclusión de tamaño (HPLC/SECK Pureza por
+SEC
+98%
+Cumple
+Pureza por cromatografia de Maximo 1.3%
+Exclusión de tamaño (HPLC/SEC) Suma de moléculas de alto pese
+Variantes de carga por cromatografia de intercambio cationic (HPLC/CEX) Pico principal (varte OK)
+$7.0-84.0%
+70.2%
+Cumple
+12.1%
+Cumple
+Vanantes de carga por cromatografia de intercambio catonico (HPLCICEXI Suma de pins acidos
+40-16.0%
+176%
+Vanantes de carga per 6.0-33.0%
+cromatografia de intercambio catonico (HPLC/CEX) Suma de picos basicos
+Pureza por CE-SDS
+Minimo 94.05%
+96.1%
+Cumple
+Contenido: GP2013(UV)
+9.5-10-5 mg/ml
+10.3 mg/ml
+Cumple
+Endotoons bacterianae
+Maximo 0:47 UEing
+0,01 UE/ng
+Cumple
+Esterilidad
+Ester
+Cumple
+SANDOZ
+Bajo protesta de decir verdad los datos consignados en el presente Certificado Analitico están correctamente traducidos y corresponden al lote del bien que en este momento se entrega. Observaciones. El lote cumple con la monografia analitica. Certificamos que la información registrada es
+eutentica precisa y que los registros de análisis fueron revisados y cumplen con las BPM.
+A Novartis
+Balderas
+Martinez Elizabeth
+Q.FI. Elizabeth Guadalupe Balderas Martinez Auxiliar de Responsable Sanitario Profesional: 4207854 Sandoz S.A. de C.V. No. Cedula B BAL
+Aprobado por BALDEEL1, 16-febrero 2023
+Página 2 de 2
+Impresión: 16-febrero-2023 14:47 Hrs.SANDOZ
+A Novartis
+Issued by:
+Lek Pharmaceuticals d.d.
+Verovskova 57
+1526 Ljubljana
+Slovenia
+Tel: +386 1 5802111
+Fax: +386 1 5683517
+www.lek.si
+Manufacturing License:
+800-12/2021-9
+Reit: 0901231032
+Certificate of Conformity
+Material Name:
+ARASAMILA 500MG/50ML, 1LIVI 1 MX
+ARASAMILA 500MG
+Trade Name:
+500 MG/50 ML LIQUID IN VIAL
+Strength/Potency: Dosage Form:
+Package Type:
+Package Size:
+VIAL
+1 PC x 50 ML
+Material No.:
+44092339 MR0037
+Release Type:
+BATCH RELEASE
+03-NOV-2022
+Sandoz Batch:
+Date of Manufacturing:
+Expiry Date:
+Manufacturing site:
+Release date:
+09-JAN-2023
+Released Quantity: 2219 PC
+License number:
+800-12/2021-9
+31-OCT-2025
+LEK PHARMACEUTICALS D.D. VEROVSKOVA 57
+N/A
+1526 LJUBLJANA
+Slovenia
+Testing site:
+License number
+: 800-12/2021-9
+LEK PHARMACEUTICALS D.D.
+Kolodvorska 27
+1234 Menges Slovenia
+Testing site:
+License number:
+800-12/2021-9
+LEK PHARMACEUTICALS D.D.
+VEROVSKOVA 57
+N/A
+1526 LJUBLJANA
+Slovenia
+Importing country:
+Mexico
+Marketing Authorization Number: 015M2020 SBA
+Components:
+Material Name:
+Material No.:
+Batch No.:
+8654157
+Manufacturing site:
+GP2013 DS NAT15 LOUD GE
+40007030 Active Pharm. Ingredient
+SANDOZ GMBH
+BIOCHEMIESTRASSE 10
+6336 LANGKAMPFEN
+Austria
+Manufacturer batch:
+8654157
+Page: 1/3
+*Electronically signed according to Sandoz electronic signature standardsSANDOZA Novartis
+Division
+Issued by:
+Lek Pharmaceuticals d.d.
+Verovskova 57
+1526 Ljubljana
+Slovenia
+Tel: +386 1 5802111
+Fax: +386 1 5683517
+www.lek.al
+Manufacturing License: 800-12/2021-9
+Pief: 0001231032
+Certificate of Conformity
+Material Name:
+ARASAMILA 500MG/50ML 1LIVI 1 MX
+ARASAMILA 500MG
+Trade Name: Material No.:
+44092339
+Sandoz Batch:
+MR0037
+Components:
+Batch No.:
+ML7764
+Material Name:
+Material No.:
+Total Bulk Quantity: Manufacturing site:
+License number
+: 800-12/2021-9
+GP2013 LIVI 1DOS/50ML S103 UE 27
+42032763
+Bulk Product
+9308 PC
+LEK PHARMACEUTICALS D.D. VEROVSKOVA 57
+N/A
+1526 LJUBLJANA
+Slovenia
+Components:
+GP2013 LIVI 1DOS/50ML S103 UE 26
+42032762
+Bulk Product
+Batch No.:
+MN6965
+Material Name:
+Material No.:
+Total Bulk Quantity: Manufacturing site:
+License number:
+800-12/2021-9
+9248 PC
+LEK PHARMACEUTICALS D.D.
+VEROVSKOVA 57
+N/A
+1526 LJUBLJANA Slovenia
+Certification Statement
+I hereby confirm that the manufacturing stages referred to in the Quality Agreement have been carried out in full compliance with the GMP requirements of the EU and the terms described in the Agreement for ensuring compliance with the requirements of the Marketing Authorisation(s) as provided by [Contract Giver/manufacturer certifying and releasing the batch).
+Certificate comment:
+There was 1 major deviation observed during manufacturing. The deviation has been investigated according to the internal procedure by a competent person. The investigation concluded that the deviation did not impact the quality, compliance, safety and efficacy of the product and therefore allows this batch release (1QEM reference DEV-47368).
+Page: 2/3
+*Electronically signed according to Sandoz electronic signature standardsSANDOZA Novartis
+Ret: 0001231032
+Certificate of Conformity
+Material Name:
+Trade Name: Material No.:
+44092339
+Issued by:
+Lek Pharmaceuticals d.d. Verovskova 57 Slovenia
+1526 Ljubljana
+Tel: +386 1 5802111
+Fax: +386 1 5683517
+www.lek.si
+Manufacturing License: 800-12/2021-9
+ARASAMILA 500MG/50ML 1LIVI 1 MX
+Sandoz Batch:
+MR0037
+ARASAMILA 500MG
+Kristina Lampic, QP
+Batch Release/Certification performed by: Batch Release/Certification Date/Time: Certificate Creation Date/Time:
+09-JAN-2023/09:31:57 UTC 09-JAN-2023/09:32:06 UTC
+SANDOZ Don
+QFJ. Elizabeth Guadalupe Balderas Martinez Auxiliar de Responsable Sanitario No. Cédula Profesional: 4207854 Sandoz S.A. de C.V.
+Page: 3/3
+*Electronically signed according to Sandoz electronic signature standardsLek Pharmaceuticals d.d.
+Verovškova ulica 57 Si-1528 Ljubljana, Slovenia
+Quality Control Unit Verovškova ulica 57 SI-1626 Ljubljana, Slovenia
+Quality Control Unit
+Kolodvorska cesta 27 Si-1234 Menges, Slovenia
+CERTIFICATE OF ANALYSIS
+Product
+44092339 ARASAMILA 500MG/50ML 1LIVI 1 MX
+Country Lot No.
+MX
+MR0037
+Bulk Lot No / Product
+ML7764/42032763
+Parameters
+Specifications
+Results
+Degree of coloration
+colourless to slightly yellowish
+Colorless
+solution
+Appearance of the container
+clear glass, rubber stopper and aluminium flip off cap, visually clean and correctly fitted
+conforms
+Corresponds to reference conforms
+Identity: Primary Structure (LC-UV Peptide Mapping)
+Identity Charge
+Corresponds to reference
+conforms
+Clarity
+<=15 NTU
+6 NTU
+PH
+6.3-6.7
+6.5
+Extractable volume (weight)
+50.25-51.75 ml
+50.77 ml
+Osmolality
+>=240 mOsmol/kg
+361 mOsmol/kg
+0.5%
+99.4%
+67.1% purity 57.0-84.0%
+Purity SEC Sum of HMW
+<=1.3%
+Purity by SEC: Sum of high molecular weight variants
+Purity by SEC: Purity
+>98.0%
+Charge variants by CEX: Main peak
+main peak
+Charge variants by CEX: Sum of 4,0-18.0% acidic peaks
+sum of acidic peaks
+Charge variants by CEX: Sum of
+6.0-33.0%
+basic peaks
+sum of basic peaks
+13.1%
+19.8%
+Page 1 of 3
+Not routinely tested. Test is performed according to approved testing frequency. Electronically signedLek Pharmaceuticals d.d.
+Verovškova ulica 57 Si-1526 Ljubljana, Slovenia
+Quality Control Unit Quality Control Unit
+Verovškova ulica 57 SI-1526 Ljubljana, Slovenia
+Kolodvorska cesta 27 Si-1234 Menged, Slovenia
+CERTIFICATE OF ANALYSIS
+44092339 ARASAMILA 500MG/50ML 1LIVI 1 MX
+Product
+MX MR0037
+Country Lot No.
+Bulk Lot No / Product
+ML7764/42032763
+Parameters
+Specifications
+Results
+Purity CE-SDS (non-red.)
+>94.0%
+purity
+96.5%
+Bacterial endotoxins test
+<0.47 EU/mg
+sterile
+<0.20 EU/mg
+Sterility
+conforms
+Particulate contamination: sub-visible <-6000/via! particles: >10um
+780 vial
+Particulate contamination: sub-visible <600 /vial particles: >=25um
+0/vial
+Particulate contamination: visible
+practically free from visible
+particles
+particles
+conforms
+Content GP2013-UV
+9.5-10.5 mg/ml GP2013
+10.1 mg/ml
+Not routinely tested. Test is performed according to approved testing frequency.
+Electronically signed
+Page 2 of 3Lek Pharmaceuticals d.d. Verovikova ulica 57 Si-1526 Ljubljana, Slovenia
+Quality Control Unit
+Quality Control Unit
+Verovškova ulica 57 Si-1526 Ljubljana, Slovenia
+Kolodvorska cesta 27 Si-1234 Mengel, Slovenia
+CERTIFICATE OF ANALYSIS
+44092339 ARASAMILA 500MG/50ML 1LIVI 1 MX
+Product
+MX
+Country Lot No.
+MR0037
+Bulk Lot No / Product
+ML7764/42032763
+Parameters
+Specifications
+Results
+Potency CDC Bioactivity
+80-125 %
+103 %
+Storage
+Complies with specification of Marketing Authorisation
+Store between 2°C-8°C
+Date
+17.12.2022
+Quality Unit
+Barbara Pizorn
+Not routinely tested. Test is performed according to approved testing frequency Electronically signed
+Page 3 of 3No. Remision
+REMISIÓN DE PEDIDO
+1333992
+IMSS
+Fecha Remisión 12/04/2023 10 16 29
+Fecha Impresión: 12/04/2023 11:16 30
+Lugar de entrega
+No. Orden de Reposición:
+Licitación, y/o Adjudicación directa LA-12-M78-012M78997-4-1-2023
+40150283
+Fecha de expedición:
+29/03/2023
+Fecha de entrega
+13/04/2023
+No. Contrato: U230080
+A.DISTRIBUIDOR
+Clasificación presupuestal
+098301150905 Razón Social
+LOGISTICA Y TRANSPORTE PARA LA INDUSTRIA DE LA SALUD. SAPI. DE CV.
+Dias amplitud:
+5
+Fecha posible 13/04/2023
+Dirección completa AVINDTR AUTOMOTRIZ 128 LTC EDFC AZ PROUE NOTH EL COECILLO OF 5034 TOLUCA MEXICO
+Datos proveedor
+RFC:
+No. Proveedor:
+ALT-010826-8YO
+00092663
+Razón Social
+Dirección completa:
+ALTERNAVIDA SA DE CV.
+AV. JESUS DEL MONTE NUM, 271 PISO 4. Col. JESUS DEL MONTE, Pobl HUIXQUILUCAN, EDO. DE MEXICO
+Almacén destino.
+Clasificación presupuestal 168001150900 Nombre almacen
+ALMACEN DELEGACIONAL EN MORELOS
+Dirección completa: AV PLAN DE LA END AV CENTRAL COL CHACCP
+K CUERNAVACA MORELOS
+Presentación
+Precio Compra
+Clave
+Descripción
+Caducidad
+Cantidad
+Importe
+Procedencia
+Marca
+ENV1FA
+$2062.5
+010 000 5445 00 00
+RITUXIMAB SOLUCION INYECTABLE CADA FRASCO AMPULA CONTIENE
+RITUXIMAB 500 MG. ENVASE CON UN FRASCO AMPULA CON 50 ML
+31/10/2025
+209
+ESLOVENIA
+5431.062.50
+MR0034
+ARASAMILARS 015M2020 SSA
+Subtotal IVA 0.00%
+$431,062.50
+50 00
+(cuatrociendos treinta y un mil sesenta y dos pesos con 50/100 M.N.)
+Total
+$43106250
+Coservaciones
+03/NOV/22
+Sello de Almacén
+Selo Control de Caldad
+RECIBIDO
+APROBADO
+Page 1 de 1No. Remisión
+REMISIÓN DE PEDIDO
+1333001
+Fecha Remisión
+Fecha impresión: 12/04/2023 11:05:19
+IMSS
+12/04/2023 10:05:18
+No. Orden de Reposición
+40158279
+Licitación, yle Adjudicación directa: LA-12-M7B-012M70997-4-1-2023
+Lugar de entrega
+A DISTRIBUIDOR
+Clasificación presupuestal
+098301150905 Razón Social
+LOGISTICA Y TRANSPORTE PARA LA INDUSTRIA DE LA SALUD, SAPI DE CV.
+Fecha de expedición:
+29/03/2029 Dias amplitud:
+Fecha de entrega: 13/04/2023
+No, Contrato: U230080
+Fecha posible 13/04/2023
+Dirección completa: AV NETH AUTOMOTRIZ 128 LT CEOFCA PROUE
+NOTH EL COECILLO CP 54, TOLUCA MEXICO
+Datos proveedor
+RFC:
+No. Proveedor
+ALT-010026-BYD
+00092963
+Razón Social
+Dirección completa
+ALTERNAVIDA. 5. A. DE C.V.
+AV. JESUS DEL MONTE NUM. 271 PISO 4, Col. JESUS DEL MONTE. Pobi HUIXQUILUCAN EDO DE MEXICO
+Almacén destina:
+Clasificación presupuestal
+128001150900 Nombre almacen
+ALMACEN DELEGACIONAL EN GUERRERO
+Dirección completa:
+ACAMACO DE AUREZ QUERRERO
+Presentación
+Precio Compra
+Clave
+Descripción
+Caducidad
+Cantidad
+Importe
+Lote
+Marca
+Procedencia
+ENV1FA
+$20625
+010 000 5445 00 00
+RITUXIMAB SOLUCION INYECTABLE. CADA FRASCO AMPULA CONTIENE
+RITUXIMAB 500 MG ENVASE CON UN FRASCO AMPULA CON 50 ML
+31/10/2025
+306
+$831,125.00
+ESLOVENIA
+ARASAMILARS 015M2020 SSA
+Subtotal NVA 0.00%
+5631.125.00
+$0.00
+(seiscientos treinta y un mil cents veinte y cinco pescis con 00100 M.N.)
+$631125 00
+Coservaciones
+03/NOV/22
+Salle de Almacin RECIBIDO
+Selle Control de Calidad APROBADO
+Page 1 de 1No. Remisión
+REMISIÓN DE PEDIDO
+1333950
+IMSS
+Fecha Remisión: 12/04/2023 10:02:19
+Fecha impresión: 12/04/2023 11:02:22
+Lugar de entrega
+No. Orden de Reposición
+40159273
+Licitación, yio Adjudicación directa: LA-12-M7B-012M78597-4-1-2023
+No. Contrato: U230080
+Fecha de expedición: 29/03/2023
+Fecha de entrega
+13/04/2023
+A DISTRIBUIDOR
+Clasificación presupuestal
+098301150005 Razón Social
+LOGISTICA Y TRANSPORTE PARA LA INDUSTRIA DE LA SALUD SAPI DE CV.
+Fecha posible
+Dias amplitud:
+13/04/2023
+Dirección completa AV INDTR AUTOMOTRIZ 128 LT CEOFCA FROUE INDTH EL COECILLO CP5048 TOLUCA MEXICO
+Datos proveedor
+RFC:
+No. Proveedor 00092863
+ALT-010926-8YD
+Razón Social ALTERNAVIDA SA. DE C. V.
+Dirección completa:
+AV. JESUS DEL MONTE NUM. 271 P150 4, Col. JESUS DEL MONTE, Pobl HUIXQUILUCAN, EDO DE MEXICO
+Clasificación presupuesta
+078001150900
+Nombre almacen
+ALMACEN DELEGACIONAL EN TUXTLA GT2
+Dirección completa CARRET TUKTLA CHAPA DE CORD TOOL TURTLA
+Presentación
+Precio Compra
+Clave
+Descripción
+Caducidad
+Cantidad
+Importe
+Procedencia
+Lote
+Marca
+ENV 1FA
+$2062.5
+010 000 5445 00 00
+RITUXIMAB SOLUCION INYECTABLE. CADA FRASCO AMPULA CONTIENE
+RITUXIMAB 500 MG, ENVASE CON UN FRASCO AMPULA CON 50 ML
+31/10/2025
+306
+$631,125.00
+MRC004
+ESLOVENIA
+ARASAMILARS 015M2020 SSA
+Importe en letras
+Subtotal IVA 0.00%
+$631,125.00
+50.00
+pentos veinta y un mi ciento veinte y cinco pesos con 00/100 MN.)
+Total
+$631125 00
+Coservaciones
+02/Nov/22
+Selo de Almacin
+Sello Control de Calidad
+RECIBIDO
+APROBADO
+Page 11No. Remisión
+REMISIÓN DE PEDIDO
+1333943
+Fecha impresión: 12/04/2023 11:00 01
+IMSS
+Fecha Ramisión 12/04/2023 10:00 00
+Lugar de entrega
+No. Orden de Reposición
+40159272
+Licitación, yle Adjudicación directa: LA-12-M7B-012M78097-4-1-2023
+Fecha de expedición:
+29/03/2023
+Fecha de entrega: 13/04/2023
+No. Contrato
+A DISTRIBUIDOR
+Clasificación presupuestal
+096301150905 Razón Social
+LOGISTICA Y TRANSPORTE PARA LA INDUSTRIA DE LA SALUD SAPA DE CV.
+Dias amplitud:
+Fecha posible
+13/04/2023
+Dirección completa: AV INDTR AUTOMOTRIZ 128 LTC COFC AJ PROUE INDTHEL COECILLO CP 50248, TOLUCA MEXICO
+Dates proveedor
+RFC:
+No. Proveedor
+ALT-010926-BVD
+00092863
+Razón Social
+Dirección completa: AV. JESUS DEL MONTE NUM. 271 PISO 4, Col. JESUS
+Almacén destino.
+Clasificación presupuestal 08001150900
+Nombre almacen
+ALMACEN DELEGACIONAL EN COLIMA
+ALTERNAVIDA, SA DE CV.
+DEL MONTE Pabi HUIXQUILUCAN, EDO. DE MEXICO
+Dirección completa:
+MONACO MAGODA NODO LA LORAC VELLA DE ALVAREZ COLMA
+Presentación
+Precio Compra
+Clave
+Caducidad
+Cantidad
+Importe
+Procedencia
+Marca
+ENVIFA
+$2062.5
+010 000 5445 00 00
+RITUXIMAB SOLUCION INYECTABLE. CADA FRASCO AMPULA CONTIENE
+RITUXIMAB 500 MG. ENVASE CON UN FRASCO AMPULA CON 50 ML
+31/10/2025
+190
+ESLOVENIA
+$391,875.00
+ARASAMILARS 015M2020 SSA
+Importe en letras:
+Subtotal
+$391,875.00
+IVAC00%
+$0.00
+(recientos noventa y un mi ochocientos setenta y cinco pesos con 00/100M.N.)
+Total
+$391875.00
+Observaciones
+03/Nov/2022
+Sello de Almacen
+Sello Control de Calidad APROBADO
+RECIBIDO
+Parade 1No. Remisión:
+REMISIÓN DE PEDIDO
+1333937
+Fecha Remisión: 12/04/2023 09:58:47
+Fecha Impresión: 12/04/2023 10:58 48
+IMSS
+No. Orden de Reposición:
+40159267
+Licitación, yio Adjudicación directa LA-12-M7B-012M78997-1-1-2023
+Lugar de entrega
+A DISTRIBUIDOR
+Clasificación presupuestal
+098301150905 Razón Social:
+LOGISTICA Y TRANSPORTE PARA LA INDUSTRIA DE LA SALUD. SAPI DE C.V.
+Fecha de expedición
+29/03/2023 Dias amplitud:
+Fecha de entrega 13/04/2023
+No. Contrato: U230080
+Fecha posible
+13/04/2023
+Dirección completa: AV INDTR AUTOMOTRIZ 128 LT CEDFC A2 PROUE
+INDTH EL COECILLO CP 50248, TOLUCA MEXICO
+Datos proveedor
+RFC
+No. Proveedor: 00002063
+ALT-010926-BYO
+Razón Social:
+Dirección completa
+ALTERNAVIDA, SA DE CV.
+AV. JESUS DEL MONTE NUM 271 PISO 4, Cal JESUS DEL MONTE Pobl HUIXQUILUCAN, EDO DE MEXICO
+Almacén destine: Clasificación presupuestal
+018001150900
+Nombre almacén ALMACEN DELEGACIONAL EN
+AGUASCALIENTES
+Dirección completa: CAROLINA VILLANUEVA DE GARCIANO 344 COL UDAD
+ROUSTRIAL OF USE AGUASCALIENTES AGUASCALIENCES
+Descripción
+Presentación
+Clave
+Precio Compra
+Caducidad
+Cantidad
+Lote
+Procedencia
+Importe
+Marca
+ENVIFA
+$20625
+010 000 5445 00 00
+RITUXIMAB SOLUCION INYECTABLE CADA FRASCO AMPULA CONTIENE RITUXIMAB 500 MG. ENVASE CON UN FRASCO AMPULA CON 50 ML
+31/10/2025
+526
+$1.084.875.00
+ARASAMILARS 015M2020 SSA
+ESLOVENIA
+Importe en letras
+Subtotal
+$1,084,875.00 50.00
+IVA 0.00% Total
+(un millon ochenta y cuatro mitochocientos setanta y cinco pesos con 00/100 M.N.)
+$1004875.00
+03/Nov/2022
+Sello de Almacen
+Sello Control de Calidad
+RECIBIDO
+APROBADO
+Pagna 11SALUD
+COFEPRIS
+SECRETARÍA DE SALUD
+COMISIÓN FEDERAL PARA LA PROTECCIÓN CONTRA RIESGOS SANITARIOS
+MODIFICACIÓN DEL REGISTRO SANITARIO No.
+COMISIÓN DE AUTORIZACIÓN SANITARIA 193300404H0002
+015M2020 SSA No. DE SOLICITUD
+203300415D0087 No. DE SOLICITUD ANTERIOR
+Con fundamento en el Articulo 4" párrafo cuarto, 8, 14 y 16 de la Constitución Politica de los Estados Unidos Mexicanos: 2 fracciones XXI y XXIV, 17 de la Ley Orgánica de la Administración Pública Federal; Articulo 1", 3 fracciones I, XXII y XXVIII, 4 fracción III, 13 inciso A fracción IX X 17 bis, fracción IV, 194, 194 bis, 197, 204,221,222, 223, 368, 371, 376, 376 Bis, 391 bis y 393 de la Ley General de Salud, 1, 2, 3, 15 de la Ley Federal de Procedimiento Administrativo, 1, 2 inciso C fracción X, 15, 36 y 37 del Reglamento Interior de la Secretaria de Salud, 1, 2, 153, 167, 168, 170, 172, 173, 174, 177, 178, 184, 185, 185, 187, 188, 189 y 190 del Reglamento de Insumos para la Salud; 1,3 tracción I inciso b), fracción VII y XII, 4 fracción inciso C, 11 fracciones VI. XI y 14 fracción I del Reglamento de la Comisión Federal para la Protección contra Riesgos Sanitarios, se autoriza la modificación a las condiciones de registro sanitario al tenor siguiente:
+Sandoz, SA de CV.
+La Candelaria No. 186, Col Atlantida, C.P. 04370, Coyoacan, Ciudad de México, México SAN641110MK7
+CARACTERÍSTICAS DEL PRODUCTO
+Denominación Distintiva:
+ARASAMILA
+Denominación Genérica
+Rituximab
+Clasificación Articulo 226 LGS: IV
+Clasificación Articulo 2 del RIS
+Medicamento biotecnológico biocomparable
+Forma Farmacéutica
+Solución
+Fabricante del Farmaco:
+Sandoz GmbH Biochemiestraße 10, 6336 Langkampfen, Austria
+Fabricante del Medicamento:
+Lek Pharmaceuticals d.d Verovškova ulica 57, Ljubljana, 1526, Eslovenia
+Acondicionador:
+Primario y secundario
+Lek Pharmaceuticals d.d.
+Verovškova ulica 57, Ljubljana, 1526, Eslovenia.
+Distribuidor
+Sandoz, S.A. de C.V. Rancho San Javier SIN, Lote fusión 2 y 3, Interior 1A, Ex. Hacienda San Miguel, C.P. 54715, Cuautitian Izcalli, México, México.
+Fecha de expedición: Fecha de vencimiento:
+21 de junio de 2021 27 de enero de 2025
+CAS-DEAPE
+COF 024126SALUD
+COFEPRIS
+Presentaciones
+Caja de cartón con 1 o 2 frasco(s) ampula con 10 ml (100 mg/10 mL). Caja de cartón con 1 o 2 frasco(s) ampula con 50 mL (500 mg/50 mL). Todas las presentaciones con instructivo anexo.
+Envase para solución:
+Frasco ampula de vidrio tipo
+Vida útil:
+Presentación frasco ampula con 100 mg/10 ml. 24 meses, debiendo expresar el año con número y el mos con letra
+Presentación frasco impule con 500 mg/50 ml.
+36 meses, debiendo expresar el año con numero y el mes con letra.
+Indicaciones terapéuticas
+Linfoma no Hodgkin (LNH)
+quimiorresistente.
+Linfoma no Hodgkin indolente o folicular de linfocitos B, CD20 positivo, en recaida o Linfoma folicular en pacientes en fase III y IV sin tratamiento previo, en combinación con Como terapia de mantenimiento en pacientes con Linfoma folicular que hayan respondido a la terapia de inducción
+quimioterapia.
+Granulomatosis con poliangeitis (Wegener) (GPA) y pollangeitis microscópica (PAM).
+Arasamila an combinación con glucocorticoides está indicado para el tratamiento de pacientes con
+granulomatosis severamente activa con poliangeitis (GPA, también conocida como granulomatosis de
+Wegener) y poliangeltis microscópica.
+Contraindicaciones:
+Hipersensibilidad al principio activo e a cualquiera de los excipientes o a proteinas murinas. Embarazo. lactancia y menores de 18 años de edad.
+Para el uso en linforma no Hodgkin
+-Infecciones graves y activas -Pacientes en un estado inmunocomprometido grave.
+Para el uso en granulomatosis con polangeltis y pollangeitis microscópica
+Infecciones graves y activas -Pacientes en un estado inmunocomprometido grave
+Insuficiencia cardiaca grave (clase IV de la New York Heart Association) o enfermedades cardiacas
+graves no controladas.
+Formulas
+100 mg/10 mL
+El frasco ampula contiene: Un volumen de sobrellenado de 0.5 m (5 %) para asegurar la extracción de la cantidad declareda
+Farmaco
+Rituximab
+Aditivos
+Acido citrica
+Cloruro de sodio
+Polisorbato 80
+Hidróxido de sodio
+100.000 mg
+Antcuerpo manocional quimerico murrahumano gût de onger ADN combinante expresado en células de ovario de hamster chino (CHO
+52.500 mg
+90.000 mg
+Monchidratado
+7.000 mg
+Para ajuste de pH.
+COF 024127
+CAS-DEAPESALUD
+COFEPRIS
+Acido clorhidrico
+Para ajuste de pit
+Agua para la fabricación de inyectables
+10.000 mL
+500 mg/50 mL
+El frasco ampula contiene:
+Un volumen de sobrenado de 1 mi. (2%) para asegurar la extracción de la cantidad dedarede Farmaco
+Rituximab
+500.000 mg
+Antuerpo moral quimerico munnahumana igli de origen ADN recombinante expresado en células de ovario de hamster chino
+KHOI
+Aditivos
+252.700 mg
+Acido citrico
+450.000 mg
+35.000 mg
+Cloruro de sodio
+Polisorbato 80
+CS
+CS
+Hidróxido de sodio
+Acido clorhidrico
+Para ajuste de p
+Para ajuste de p
+Agua para la fabricación de inyectables
+50.000 mL фр
+Via de Administración: Intravenosa.
+Consideración de uso. Inyectable.
+Observaciones al Registro
+Se autoriza la actualización de los instructivos conforme a la NOM-072-SSA1-2012, Etiquetado de medicamentos y de remedios
+herbolarios. Se autoriza la Información para Prescribir en sus versiones amplia y reducida, de acuerdo a lo que establece el Articulo 42 del Reglamento de la Ley General de Salud en Materia de Publicidad, por actualización.
+Se actualizan los rubros de Indicaciones terapéuticas y de Contraindicaciones con base a la Información para prescribir. De conformidad con el Articulo 189 del Reglamento de Insumos para la Salud, se cuenta con un plazo de agole de existencias de
+hasta 240 dias hábiles, el plazo descrito es improrrogable.
+Se le recuerda que de acuerdo con el numeral 6 de la NOM-257-SSA1-2014, En maleria de medicamentos biotecnológicos, los
+reportes del programa de aseguramiento de calidad del medicamento biotecnológico deberán ingresarse a esta Comisión de manera
+anual, mediante Escrito libre con homoclave "EL44" y notificarse en la solicitud de pròrroga del registro sanitario.
+Deberán confirmar el plazo de caducidad con estudios de estabilidad a largo plazo, conforme a la NOM-073-SSA1-2015, Estabilidad
+de fármacos y medicamentos, asi como de remedios herbolarios para la presentación en frasco ampula con 100 mg/10 mL (Oficia No. 193300404H0002 de fecha 27 de enero de 2020)
+Las condiciones sanitarias del producto al que hace referencia la presente autorización podrán ser verificadas en cualquier momento por la autoridad sanitaria, lo anterior de conformidad con los articulos 17 Bis fracciones IV y VI. y 378 de la Ley General de Salud, 1, 2, 13 y 16 fracción II de la Ley Federal de Procedimiento Administrativo 2 fracción III, 218 fracción I. C., 220 fracciones III y VI del
+Reglamento de Insumos para la Salud. El titular del presente Registro Sanitano deberá de mantener vigente el Certificado de Buenas Prácticas de Fabricación durante la vigencia del Registro Sanitario que se otorga en este acto
+Anexos: 36 (03 por una cara, 33 por ambas caras)
+SUFRAGIO EFECTIVO. NO REELECCION COMISIONADA DE AUTORIZACION SANITARIA
+AMERICA AZUCENA ORELLANA SOTELO
+CAS-DEAPE
+COF 024128
