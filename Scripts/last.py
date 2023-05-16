@@ -17,7 +17,7 @@ regex_puntos = r'\b\S+\.\S+\.\S+\b'
 folder_path = r'C:\Users\JFROJAS\Desktop\Gobierno\Archivos\PDF'
 
 result_values = []
-result_values_2 = []
+result_codProd = []
 result_total = []
 entidadFed_20 = []
 destino_18 = []
@@ -66,7 +66,7 @@ for filename in os.listdir(folder_path):
             if last_match:
                 result_values.append(last_match.split())
             if last_match_2:
-                result_values_2.append(last_match_2)
+                result_codProd.append(last_match_2)
             if last_state_match:
                 entidadFed_20.append(last_state_match.split())
             if last_total_match:
@@ -99,9 +99,9 @@ for i in range(len(entidadFed_20)):
 
 #2
 sinLetras = r'[^0-9\.]'
-for i in range(len(result_values_2)):
-    result_values_2[i] = re.sub(sinLetras, '', result_values_2[i])
-codigoProd_02 = result_values_2
+for i in range(len(result_codProd)):
+    result_codProd[i] = re.sub(sinLetras, '', result_codProd[i])
+codigoProd_02 = result_codProd
 
 #print(noRemision_01)
 #print(codigoProd_02)
